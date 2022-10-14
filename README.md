@@ -6,7 +6,8 @@ I am creating an index similar to the pokedex, for league of legends characters.
 ##
 First step is to find the league of legends characters API
 ###
-The LOL characters api - http://ddragon.leagueoflegends.com/cdn/12.19.1/data/en_US/champion.json
+The LOL characters api(official) - http://ddragon.leagueoflegends.com/cdn/12.19.1/data/en_US/champion.json
+community api - https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/
 
 ##
 Then pull the data from the API into javascript file
