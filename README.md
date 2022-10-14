@@ -23,6 +23,7 @@ or have a small clickable icon, and when you hover over the icon with your mouse
 ##wireframe
 ###
 1st wireframe - https://wireframe.cc/BTNxcn
+![wireframe1] (https://wireframe.cc/BTNxcn)
 
 ###
 2nd wireframe - https://wireframe.cc/7Aav0x
