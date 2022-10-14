@@ -20,7 +20,8 @@ implement a search bar, to find each champion
 or have a small clickable icon, and when you hover over the icon with your mouse, it shows you the card magnified
 
 
-##wireframe
+##
+wireframe
 ###
 1st wireframe - https://wireframe.cc/BTNxcn
 
@@ -31,7 +32,8 @@ or have a small clickable icon, and when you hover over the icon with your mouse
 wireframe of card - https://wireframe.cc/NTfXb1
 
 
-##trelloboard
+##
+trelloboard
 ###
 https://trello.com/b/0LAd8wip/lol-index-tcg
 
