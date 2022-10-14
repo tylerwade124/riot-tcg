@@ -23,7 +23,8 @@ or have a small clickable icon, and when you hover over the icon with your mouse
 ##wireframe
 ###
 1st wireframe - https://wireframe.cc/BTNxcn
-![wireframe1] (https://wireframe.cc/BTNxcn)
+###
+![wireframe1] (file:///var/folders/89/gq0wv5x13r7f8v5gm4b2drzr0000gn/T/TemporaryItems/NSIRD_screencaptureui_ibDLlo/Screen%20Shot%202022-10-14%20at%208.30.54%20AM.png)
 
 ###
 2nd wireframe - https://wireframe.cc/7Aav0x
