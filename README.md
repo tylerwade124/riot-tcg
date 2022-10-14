@@ -29,6 +29,9 @@ wireframe
 2nd wireframe - https://wireframe.cc/7Aav0x
 
 ###
+FINAL wireframe - https://wireframe.cc/9krJEM
+
+###
 wireframe of card - https://wireframe.cc/NTfXb1
 
 
