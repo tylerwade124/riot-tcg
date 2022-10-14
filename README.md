@@ -1,7 +1,7 @@
 # riot-tcg
 
 ##
-I am creating an index similar to the pokedex, for league of legends characters. Currently there is 161 characters, and I plan to create a tcg style card for the characters.
+I am creating an index similar to the pokedex, for league of legends characters. Currently there are 161 characters, and I plan to create a tcg style card for the characters.
 
 ##
 First step is to find the league of legends characters API
