@@ -35,9 +35,7 @@ async function getData (event) {
             let champTags = document.querySelector(`#championTags`)
             champTags.innerText = res.data.Aatrox.tags
 
-
-                
-
+        
         })
         .catch(err => {
             console.log(`error!`, err)
